@@ -17,9 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 
 <p align="center">
-  <img src="" alt="App Screenshot 1" width="200" style="margin: 10px;"/>
-  <img src="" alt="App Screenshot 2" width="200" style="margin: 10px;"/>
-  <img src="" alt="App Screenshot 3" width="200" style="margin: 10px;"/>
-  <img src="" alt="App Screenshot 4" width="200" style="margin: 10px;"/>
-  <img src="" alt="App Screenshot 5" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/KhalidImran57/Food_Delivery-App/blob/efb2eb707f2b6fc37ca7a715ec3bfbbcb2f895e4/f1.PNG" alt="App Screenshot 1" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/KhalidImran57/Food_Delivery-App/blob/efb2eb707f2b6fc37ca7a715ec3bfbbcb2f895e4/f2.PNG" alt="App Screenshot 2" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/KhalidImran57/Food_Delivery-App/blob/efb2eb707f2b6fc37ca7a715ec3bfbbcb2f895e4/f3.PNG" alt="App Screenshot 3" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/KhalidImran57/Food_Delivery-App/blob/efb2eb707f2b6fc37ca7a715ec3bfbbcb2f895e4/f4.PNG" alt="App Screenshot 4" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/KhalidImran57/Food_Delivery-App/blob/efb2eb707f2b6fc37ca7a715ec3bfbbcb2f895e4/f5.PNG" alt="App Screenshot 5" width="200" style="margin: 10px;"/>
 </p>
